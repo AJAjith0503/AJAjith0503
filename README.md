@@ -119,7 +119,7 @@ class Ajith:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AJAjith0503&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AJAjith0503&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" alt="Trophies"/>
 
 </div>
 
@@ -164,3 +164,4 @@ class Ajith:
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
